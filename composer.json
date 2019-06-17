@@ -1,0 +1,6 @@
+{
+    "require": {
+        "shipu/muthofun-sms-gateway": "^1.0",
+        "nexmo/client": "^1.8"
+    }
+}
